@@ -1,0 +1,5 @@
+pyrogram
+pytube
+yt-dlp
+tgcrypto
+flask
